@@ -16,7 +16,8 @@ export default class Menu extends Component {
                     {/* Sidebar user panel (optional) */}
                     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
                     <div className="image">
-                        <img src="dist/img/caleb.png" className="img-circle elevation-2" alt="Usuario"/>
+                        <img src="dist/img/logo.png" className="img-circle elevation-2" alt="Usuario"/>
+                    
                     </div>
                     <div className="info">
                         <a href="https://github.com/CalebVentura" className="d-block">Caleb Ventura</a>
